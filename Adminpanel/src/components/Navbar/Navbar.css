@@ -1,0 +1,11 @@
+
+.navb{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   background-color: rgb(228, 228, 228);
+}
+.navb img{
+    height:100px;
+    width:150px;
+}

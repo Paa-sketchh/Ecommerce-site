@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Kalam:wght@300;400;700&family=Teko:wght@300..700&display=swap');
+*{
+    margin: 0;
+}
+.Data{
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    background-image:linear-gradient(rgb(182, 249, 95),rgb(65, 81, 43,0));
+    font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  height: 100vh;
+}
+.left{
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 300;
+}
+.left p{
+    margin:0;
+}
+.left h2{
+    font-size: 50px;
+}
+.hand{
+    display: flex;
+}
+.hand img{
+    width: 76px;
+    height: 61px;
+}
+.lbtn button{
+    background-color: #b5fb5b;
+    font-size: 30px;
+    border-radius: 20px;
+    width: 250px;
+    font-weight: 300;
+    color: white;
+}
+.right img{
+    height:80vh;
+    box-shadow: 0 2px 3px 2px;
+}

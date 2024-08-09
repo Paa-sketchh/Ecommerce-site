@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+}
+.side{
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    width:fit-content;
+}

@@ -1,0 +1,14 @@
+.pop{
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

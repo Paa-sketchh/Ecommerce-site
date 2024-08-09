@@ -1,0 +1,31 @@
+.item{
+    width:250px;
+    height:400px;
+    margin:15px 20px;
+    display: flex;
+    flex-direction: column;
+}
+.item img{
+    width:250px;
+    height:300px;
+}
+.item p{
+ font-size: 18px;
+ font-weight: 500;
+}
+.prices{
+    display:flex;
+    align-items: flex-end;
+}
+.new{
+    font-size: 13px;
+}   
+.old{
+   font-size: 10px;
+   margin-right: 5px;
+   text-decoration: line-through;
+}
+.item:hover{
+    transform:scale(1.06);
+    transition: 0.5s;
+}

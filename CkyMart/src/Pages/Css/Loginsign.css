@@ -1,0 +1,9 @@
+.sign{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.det{
+    display:flex;
+    flex-direction: column;
+}
